@@ -1,3 +1,3 @@
 # Lua Code
 
-Code for a SWEP tool that uses the aerodynamics models developed in expression2.
+Code for a [SWEP](https://wiki.facepunch.com/gmod/Structures/SWEP) tool that uses the aerodynamic model developed in expression2.
