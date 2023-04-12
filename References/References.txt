@@ -1,0 +1,17 @@
+E2 Functions:
+	Applyforce / ApplyTorque:
+		Source code: [lines 565 - 661]
+		https://github.com/wiremod/wire/blob/master/lua/entities/gmod_wire_expression2/core/entity.lua
+	
+		Documentation:
+		https://github.com/wiremod/wire/wiki/e2-docs-entity
+	
+Gmod, Ultimate Physics Guide:
+	https://web.archive.org/web/20130303072829/http://www.wiremod.com/forum/members/6012.html
+
+Blade element momentum theory:
+https://hal.archives-ouvertes.fr/hal-02550763/document
+
+http://www.aerodynamics4students.com/propulsion/blade-element-propeller-theory.php
+
+https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2693&context=facpub

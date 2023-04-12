@@ -1,0 +1,35 @@
+Multivariate root-finding:
+	Muldimensional newton's method:
+		https://web.mit.edu/18.06/www/Spring17/Multidimensional-Newton.pdf
+
+	Finite differences: [Jacobian approximation]
+		https://www.iue.tuwien.ac.at/phd/khalil/node14.html
+	
+		https://www.youtube.com/watch?v=G25sGOWkOuQ	
+
+	Broyden's method: [iterated jacobian approximation]
+		https://en.wikipedia.org/wiki/Broyden%27s_method
+
+		https://www.youtube.com/watch?v=UlLGzW-KjHs
+
+Gmod - Lua math operations:
+	Note: No native support for matrix operations
+
+	Multivariabe structures:
+		https://wiki.facepunch.com/gmod/Angle
+
+		https://wiki.facepunch.com/gmod/Vector
+
+		https://wiki.facepunch.com/gmod/Global.Matrix
+
+E2 operations:
+	Note: cannot solve system or calculate inverse
+
+	Multivariabe structures: 
+		https://github.com/wiremod/wire/wiki/e2-docs-matrix	
+
+		https://github.com/wiremod/wire/wiki/e2-docs-vector
+		
+Aerodynamic models:
+	Realistic Aircraft Physics for Games:
+		https://www.youtube.com/watch?v=p3jDJ9FtTyM
